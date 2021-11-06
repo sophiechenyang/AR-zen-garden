@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="autumn" size="1.000000 0.996795" />
+    <ImageTarget name="spring" size="1.000000 0.940102" />
+    <ImageTarget name="tree" size="1.000000 0.269531" />
+    <ImageTarget name="bookletback" size="1.000000 1.525626" />
+    <ImageTarget name="matcha" size="1.000000 1.325052" />
+    <ImageTarget name="alpha" size="1.000000 1.107078" />
+    <ImageTarget name="booklet" size="1.000000 1.549637" />
+    <ImageTarget name="fish" size="1.000000 0.980769" />
+  </Tracking>
+</QCARConfig>
