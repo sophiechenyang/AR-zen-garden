@@ -8,6 +8,8 @@ public class VBController : MonoBehaviour
 
     public GameObject cube, capsule;
     VirtualButtonBehaviour[] vrb;
+    GameManager gameManager;
+    ObserverBehaviour mObserverBehaviour;
 
     void Start()
     {
@@ -20,7 +22,14 @@ public class VBController : MonoBehaviour
             vrb[i].RegisterOnButtonPressed(onButtonPressed);
             vrb[i].RegisterOnButtonReleased(onButtonReleased);
         }
-        
+
+        gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
+        mObserverBehaviour = GetComponent<ObserverBehaviour>();
+
+    }
+
+    void Update()
+    {
     }
 
     void onButtonPressed(VirtualButtonBehaviour vb)

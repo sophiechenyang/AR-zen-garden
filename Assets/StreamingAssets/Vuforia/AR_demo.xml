@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="menu" size="1.000000 2.596257" />
+    <ImageTarget name="vuforia" size="1.000000 1.333333" />
+    <ImageTarget name="astronaut" size="1.000000 1.727273" />
+    <ImageTarget name="bookletback" size="1.000000 1.525626" />
+    <ImageTarget name="stone_lantern" size="1.000000 0.505166" />
+    <ImageTarget name="chi" size="1.000000 1.048000" />
+    <ImageTarget name="li" size="1.000000 1.064151" />
+    <ImageTarget name="jin" size="1.000000 1.090336" />
     <ImageTarget name="autumn" size="1.000000 0.996795" />
     <ImageTarget name="spring" size="1.000000 0.940102" />
-    <ImageTarget name="tree" size="1.000000 0.269531" />
-    <ImageTarget name="bookletback" size="1.000000 1.525626" />
-    <ImageTarget name="matcha" size="1.000000 1.325052" />
-    <ImageTarget name="alpha" size="1.000000 1.107078" />
     <ImageTarget name="booklet" size="1.000000 1.549637" />
-    <ImageTarget name="fish" size="1.000000 0.980769" />
   </Tracking>
 </QCARConfig>

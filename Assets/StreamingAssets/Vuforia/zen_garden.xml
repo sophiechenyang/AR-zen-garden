@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="waterfall" size="0.023000 0.072334" />
+    <ImageTarget name="explain" size="0.023000 0.070940" />
+    <ImageTarget name="bridge" size="0.020000 0.017091" />
+    <ImageTarget name="bonsai" size="0.030000 0.019921" />
+    <ImageTarget name="maple-tile" size="0.023000 0.068625" />
+    <ImageTarget name="cherry_tile" size="0.023000 0.069763" />
+    <ImageTarget name="pine_tile" size="0.023000 0.069929" />
+    <ImageTarget name="maple_black" size="0.070000 0.022148" />
+    <ImageTarget name="maple_leaves" size="0.070000 0.021984" />
+    <ImageTarget name="maple2" size="0.070000 0.094422" />
+    <ImageTarget name="green_patterns" size="0.070000 0.022726" />
+    <ImageTarget name="yellow_flowers" size="0.070000 0.022197" />
+    <ImageTarget name="flower" size="0.070000 0.023184" />
+    <ImageTarget name="dragonfly" size="0.070000 0.021965" />
+    <ImageTarget name="wave" size="0.070000 0.022640" />
+    <ImageTarget name="haiku" size="0.070000 0.070434" />
+    <ImageTarget name="patterns" size="0.070000 0.046868" />
+    <ImageTarget name="meaning" size="0.030000 0.023417" />
+    <ImageTarget name="chi" size="0.015000 0.017021" />
+    <ImageTarget name="neko" size="0.015000 0.015369" />
+    <ImageTarget name="stone_lantern" size="0.030000 0.015155" />
+    <ImageTarget name="menu" size="0.070000 0.181738" />
+    <ImageTarget name="li" size="0.020000 0.021283" />
+  </Tracking>
+</QCARConfig>
